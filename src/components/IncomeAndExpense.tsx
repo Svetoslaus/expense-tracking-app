@@ -1,4 +1,4 @@
-import React from "react";
+
 import { useAppSelector } from "../hooks/hooks";
 import { Stack } from "react-bootstrap";
 export default function IncomeAndExpense(){

@@ -1,4 +1,4 @@
-import React from "react"
+
 import { useAppSelector } from "../hooks/hooks"
 
 export default function ExpenseHistory(){
